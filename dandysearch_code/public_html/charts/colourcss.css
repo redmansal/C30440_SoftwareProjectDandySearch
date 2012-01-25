@@ -1,0 +1,42 @@
+
+.one_query {
+	height: 10px;
+	width: 1500px;
+	background-color:  #FFFFFF;
+        float: left;
+        z-index:1;
+}
+
+
+.one_red {
+	height: 10px;
+	width: 10px;
+        background-color:  #567E3A;
+        float: left;
+        z-index:4
+}
+
+.one_blue {
+	height: 10px;
+	width: 10px;
+        background-color:  #1464F4;
+        float: left;
+        z-index:4
+}
+
+
+.minus_one {
+	height: 10px;
+	width: 10px;
+	background-color: #DEDEDE;
+        float: left;
+        z-index:4;
+}
+
+.zero {
+	height: 10px;
+	width: 10px;
+	background-color: #C2C2C2;
+        float: left;
+        z-index:4;
+}
